@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christabel 
+- 👋 Hi, I’m Christabel Aboagye
 - 👀 I’m interested in creating softwares and developing apps..
 - 🌱 I’m currently learning programming languages and making enquiries on how to run codes...
 - 💞️ I’m looking forward to improve on how to futher systematic ideas 
